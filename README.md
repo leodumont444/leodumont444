@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Léo DUMONT</h1>
-<h3 align="center">A first year student at EPITECH Lille</h3>
+<h3 align="center">A second year student at EPITECH Lille</h3>
 
-- 🔭 I’m currently working on **my first year projects at EPITECH**
+- 🔭 I’m currently working on **my second year projects at EPITECH**
 
-- 🌱 I’m currently learning **C, Python and Javascript**
+- 🌱 I’m currently learning **C, C++, Haskell, Python and Javascript**
 
 - 📫 How to reach me **leo.dumont@epitech.eu**
+
+- Most of my second year projets are available in my organization **[444leod](https://github.com/444leod)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
